@@ -91,7 +91,7 @@
 
   <scm>
     <connection>scm:git:git://github.com/sethp-jive/jacoco.git</connection>
-    <developerConnection>scm:git:ssh://git@github.com:sethp-jive/jacoco.git</developerConnection>
+    <developerConnection>scm:git:ssh://git@github.com/sethp-jive/jacoco.git</developerConnection>
     <url>https://github.com/sethp-jive/jacoco</url>
   </scm>
   <issueManagement>
