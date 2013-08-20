@@ -14,7 +14,7 @@
 
   <groupId>org.jacoco</groupId>
   <artifactId>org.jacoco.build</artifactId>
-  <version>0.6.3-jive1</version>
+  <version>0.6.3-jive2-SNAPSHOT</version>
   <packaging>pom</packaging>
 
   <name>JaCoCo</name>
